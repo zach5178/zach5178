@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @zach5178
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-zach5178/zach5178 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1>👋 Hi, I’m Zach<h1>
+<ul>
+  <li>👀 I’m interested in learning new languages and getting some more TITS(Time In The Saddle)</li>
+  <li>🌱 I’m currently learning Typescript, GOLang.</li>
+</ul>
