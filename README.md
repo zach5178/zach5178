@@ -1,5 +1,5 @@
 <h1>👋 Hi, I’m Zach<h1>
 <ul>
-  <li>👀 I’m interested in learning new languages and getting some more TITS(Time In The Saddle)</li>
-  <li>🌱 I’m currently learning Typescript, GOLang.</li>
+  <li>👀 Just doing what we programmers do trying to learn new skills.</li>
+  <li>🌱 I’m currently learning... Not sure right now</li>
 </ul>
